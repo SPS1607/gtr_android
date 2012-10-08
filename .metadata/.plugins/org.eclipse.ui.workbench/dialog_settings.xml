@@ -5,15 +5,26 @@
 		<item value="250" key="dialogHeight"/>
 		<list key="orderedProviders">
 			<item value="org.eclipse.e4.ui.parts"/>
+			<item value="org.eclipse.e4.ui.parts"/>
 		</list>
 		<list key="textArray">
+			<item value="gi"/>
 			<item value="cvs"/>
 		</list>
 		<list key="orderedElements">
+			<item value="org.eclipse.egit.ui.RepositoriesView"/>
 			<item value="org.eclipse.team.ccvs.ui.RepositoriesView"/>
 		</list>
 		<list key="textEntries">
 			<item value="1"/>
+			<item value="1"/>
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item value="com.android.ide.eclipse.adt.project.ImportProjectWizard" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="com.android.ide.eclipse.wizards.category"/>
+			<item value="org.eclipse.egit.ui.internal.clone.gitclonecategory"/>
 		</list>
 	</section>
 </section>
