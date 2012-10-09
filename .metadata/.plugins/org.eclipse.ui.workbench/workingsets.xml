@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workingSetManager>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1349672563726_3" label="GTR" name="GTR">
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/GetThemRated" type="4"/>
+<item elementID="=GetThemRated" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/gridlayout_v7" type="4"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1349667579617_0" label="Window Working Set" name="Aggregate for window 1349667579617"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1349668265048_1" label="Window Working Set" name="Aggregate for window 1349668265048"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1349672322045_2" label="Window Working Set" name="Aggregate for window 1349672322045"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1349754390519_4" label="Window Working Set" name="Aggregate for window 1349754390519"/>
 <mruList name="GTR"/>
 </workingSetManager>
